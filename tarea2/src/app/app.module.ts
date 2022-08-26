@@ -10,7 +10,6 @@ import { AnticuchoComponent } from './anticucho/anticucho.component';
 import { HumitaComponent } from './humita/humita.component';
 import { PastelDeChocloComponent } from './pastel-de-choclo/pastel-de-choclo.component';
 import { TerremotoComponent } from './terremoto/terremoto.component';
-import { MoteConHuesillosComponent } from './mote-con-huesillos/mote-con-huesillos.component';
 import { ChoripanComponent } from './choripan/choripan.component';
 import { ChorrillanaComponent } from './chorrillana/chorrillana.component';
 import { PiscolaComponent } from './piscola/piscola.component';
@@ -25,7 +24,6 @@ import { PiscolaComponent } from './piscola/piscola.component';
     HumitaComponent,
     PastelDeChocloComponent,
     TerremotoComponent,
-    MoteConHuesillosComponent,
     ChoripanComponent,
     ChorrillanaComponent,
     PiscolaComponent
